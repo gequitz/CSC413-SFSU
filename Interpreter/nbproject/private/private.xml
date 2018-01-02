@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/CodeTable.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/LitCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/ReturnCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/RunTimeStack.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/LabelCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/StoreCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/Program.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/LoadCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/ArgsCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCodeLoader.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/FalseBranchCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/PopCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/VirtualMachine.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/DumpCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/BranchCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/HaltCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/WriteCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/BopCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/ReadCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/CallCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/Interpreter.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/ByteCode.java</file>
+            <file>file:/C:/Users/Maria%20Vieira/Documents/NetBeansProjects/Interpreter/src/interpreter/ByteCode/GotoCode.java</file>
+        </group>
+    </open-files>
+</project-private>
